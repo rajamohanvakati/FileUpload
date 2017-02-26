@@ -1,0 +1,14 @@
+{
+    "projectName": "FileUploader",
+    "username": "rajamohanvakati.move@gmail.com",
+    "id": "9df75a80-fbd8-11e6-8ea3-619c8d73a0d4",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ltngdev-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Users\\rvakati\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexPage"
+    ]
+}
